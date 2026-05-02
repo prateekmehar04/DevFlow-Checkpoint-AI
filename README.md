@@ -196,10 +196,6 @@ docker compose up --build
 4. Run tests
 5. Submit a pull request
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
 ## 🙏 Acknowledgments
 
 - **IBM BOB**: AI orchestration and development assistance
